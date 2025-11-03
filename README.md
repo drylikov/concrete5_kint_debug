@@ -24,6 +24,7 @@ The use of Kint is described in the [official documentation](http://raveren.gith
 
 __For example :__
 
+
 ```php
 d($this->getRelativePath());
 d($_SERVER);
