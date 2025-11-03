@@ -13,6 +13,7 @@ Add [Kint](http://raveren.github.io/kint/) debugging tools to a Concrete5 websit
 __Disclaimer :__ I am not the developer of Kint, see [Kint documentation](http://raveren.github.io/kint/#intro) for more informations.
 
 
+
 ### Usage
 
 The use of Kint is described in the [official documentation](http://raveren.github.io/kint/#intro).
