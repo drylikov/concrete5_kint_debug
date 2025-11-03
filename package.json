@@ -1,0 +1,31 @@
+{
+  "name": "concrete5-kint-debug",
+  "version": "0.9.5",
+  "description": "Add Kint debugging tools to a Concrete5 website",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drylikov/concrete5_kint_debug.git"
+  },
+  "keywords": [
+    "concrete5",
+    "debug",
+    "kint"
+  ],
+  "author": "Denis Rylikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drylikov/concrete5_kint_debug/issues"
+  },
+  "homepage": "https://github.com/drylikov/concrete5_kint_debug#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-zip": "^3.0.2"
+  },
+  "devDependencies": {
+    "gulp-debug": "^2.0.1"
+  }
+}
