@@ -37,6 +37,7 @@ __Output :__
 ![debug_kit](https://cloud.githubusercontent.com/assets/6225979/8916186/1b152936-34aa-11e5-968e-7a79075ac559.png)
 
 
+
 Note that Kint will be disabled if `concrete.debug.display_errors` is `false`.
 
 > ![error](https://cloud.githubusercontent.com/assets/6225979/9530544/c7e4d7d8-4d00-11e5-8b98-069c4b655c74.png)
