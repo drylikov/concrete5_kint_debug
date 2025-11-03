@@ -48,6 +48,7 @@ Note that Kint will be disabled if `concrete.debug.display_errors` is `false`.
 
 If you want to manually enable/disable Kint, you can use :
 
+
 ```php
 <?php
 // Enable Kint
