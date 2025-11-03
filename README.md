@@ -58,3 +58,4 @@ If you want to manually enable/disable Kint, you can use :
 // Disable Kint
 \Kint::enabled(false);
 ```
+
